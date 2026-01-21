@@ -115,24 +115,6 @@ Window functions reveal industry leaders and show how funding accumulates over l
 
 ---
 
-## 📁 Project Structure
-
-TechCrunch-SQL-Analysis/
-│
-├── data/
-│ └── techcrunch.csv
-│
-├── script/
-│ ├── basic_analysis.sql
-│ ├── funding_analysis.sql
-│ ├── time_series.sql
-│ └── advanced_queries.sql
-│
-├── insights/
-│ └── key_findings.md
-│
-└── README.md
-
 ## 💼 Portfolio Value
 
 This project demonstrates:
