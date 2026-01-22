@@ -114,14 +114,3 @@ Window functions reveal industry leaders and show how funding accumulates over l
 - Later-stage funding rounds receive significantly larger investments  
 
 ---
-
-## 💼 Portfolio Value
-
-This project demonstrates:
-
-- Real-world data analysis using SQL  
-- Business-focused questioning  
-- Data-driven insight generation  
-- Readiness for **Data Analyst / Data Engineer roles**
-
----
